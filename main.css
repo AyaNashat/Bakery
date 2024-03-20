@@ -1,0 +1,231 @@
+p{
+    color: rgb(104, 104, 104);
+}
+.container{
+   
+    font-family: "Alegreya Sans";
+
+}
+
+.conmain{
+    background-image: url("Bakery/images/drew-coffman-1872.jpg") ;
+    width: 100%;
+    height: 90%;
+    background-size: cover;
+    color:rgb(255, 255, 255) ;
+    margin-bottom: 30px;
+
+    
+}
+.conmain p,h2{
+    color:rgb(255, 255, 255) ;
+}
+body{
+    margin: 0;
+}
+.text-main{
+    text-align: center;
+    padding-top: 50px;
+}
+.pfont{
+padding: 50px;
+}
+.hfont{
+    font-size: 60px;
+}
+.button{
+   text-align: center;
+   margin-top: 30px;
+   
+   
+   
+  
+}
+.bl{
+    padding: 15px;
+    background-color:#9E7B55 ;
+    margin-right:10px ;
+    border-color: transparent;
+}
+.bc{
+    padding: 15px;
+    background-color: transparent;
+    margin-right:10px ;
+    border-color: blanchedalmond;
+}
+
+/* ---------------------------------- ..............................................*/
+.second {
+  display: inline-block;
+  vertical-align: top; 
+    margin: 40px; /* Align content vertically */
+}
+
+.bread{
+    
+    margin-top: 20px;
+    background-color: #9E7B55;
+    width:45%;
+    display: inline-block;
+  vertical-align: top; 
+
+}
+.bread img{
+    width:100% ;
+    
+}
+ .sectext{
+    width: 30%;
+    text-align:left;
+    vertical-align: top;
+    display: inline-block;
+   margin-left: 40px;
+
+}
+.sectext h3{
+    color: black;
+    font-size: 33px;
+}
+.sectext img{
+    width: 10%;
+    margin-top:4%;
+    padding-right: 9%;
+}
+.sectext p{
+    display: inline-block;
+    margin-top:4%;
+    padding-right: 9%;
+}
+/*.............................................................................................*/
+
+.ourloc{
+    background-color:#F8F8F8;
+    display: inline-block;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.thrtext{
+
+    display: inline-block;
+    vertical-align: text-top;
+    width: 35%;
+    font-size: 20px;
+    margin-right: 9%;
+    margin-left: 5%;
+
+}
+.thr-img{
+    display: inline-block;
+    vertical-align:top;
+    width: 39%;
+
+}
+.thr-img img{
+width: 100%; 
+text-align: right;
+margin-left: 20%;   
+}
+.thrtext h3{
+    font-size: 35px;
+}
+/* ................................................................................ */
+.Our-baking{
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+    padding-bottom: 30px;
+}
+.baking{
+    width: 30%;
+    text-align: center;
+    display: inline-block;
+    margin-right: 3%;
+    font-size: 20px;
+}
+.baking img{
+    width: 100%;
+}
+.our-baking h3{
+    font-size: 35px;
+}
+/* .................................................................................... */
+.map{
+    margin-top:3%;
+    background-color:#F8F8F8;
+    width: 100%;
+    float: right;
+    margin-top: 30px;
+}
+.map-text{
+    float: left;
+    width: 45%;
+    margin-left:3% ;
+}
+.mapa{
+    width: 40%;
+    float: right;
+}
+.mapa img{
+    width: 100%;
+}
+.clear-fix{
+    clear: both;
+}
+.map-text p{
+    margin-left:7%;
+    display: inline-block;
+    font-size: 20px;
+}
+.map-text img{
+    margin-left:7%;
+    display: inline-block;
+}
+/* ....................................................................................... */
+.about{
+    background-color:#403D38 ;
+    float: left;
+    font-size: 18;
+    color:rgb(150, 150, 150);
+    text-align: left;
+    padding-left: 4%;
+
+}
+.about-b{
+    width: 24%;
+    float: left;
+    
+}
+.why{
+    width:23% ;
+   
+    float: left;
+}
+.contact{
+    width: 23%;
+    border: beige;
+    float: left;
+
+}
+.about img{
+    width:9% ;
+    float: left;
+  
+}
+.why div{
+    border-style:hidden;
+}
+/* ............................................................... */
+.bakery{
+    background-color: #353330;
+    display: inline-block;
+    text-align: center;
+
+}
+.bakery img{
+    display: inline-block;
+}
+.icon img{
+    display: inline-block;
+    width: 5%;
+}
+
